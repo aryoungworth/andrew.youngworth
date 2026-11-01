@@ -2,11 +2,11 @@
 <html lang="en">
 
 <!-- NOTE: This is a practice template for a class that includes HTML instruction. -->
-    
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Massachusets Presidential Election Results</title> 
+    <title>Massachusetts Presidential Election Results</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -16,17 +16,18 @@
 
     <main class="article-container">
 
-        <h1>Election Result Headline Goes Here</h1>
+        <h1>2024 Presidential Election Results by Massachusetts Town</h1>
 
         <p>Kamala Harris won Massachusetts in the 2024 presidential election.</p>
 
-        <p>Harris carried 268 of the state’s 351 cities and towns while Donald Trump won 83. Harris’s support is strongest in Greater Boston, the Berkshires, the Pioneer Valley, and Cape Cod and the islands. Trump’s wins are mostly in central Massachusetts along the southeastern coast.</p>
+        <p>Harris carried 268 of the state’s 351 cities and towns while Donald Trump won 83. Harris’s support is strongest in Greater Boston, the Berkshires, the Pioneer Valley, and Cape Cod and the islands. Trump’s wins are concentrated in south-central and north-central Massachusetts, along the southeastern coast, and in a few towns near the New Hampshire border.</p>
 
-        <!-- <iframe title="2024 Presidential Election Results by Massachusetts Town" aria-label="Choropleth map" id="datawrapper-chart-PbHar" src="https://datawrapper.dwcdn.net/PbHar/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="543" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script> -->
+        <iframe title="2024 Presidential Election Results by Massachusetts Town" aria-label="Choropleth map" id="datawrapper-chart-PbHar" src="https://datawrapper.dwcdn.net/PbHar/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="543" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
+        <!-- End map section -->
 
-        <p>Western Massachusetts was all democratic. North Shore Massachusetts along the east is also very Democratic.</p>
+        <p>Western Massachusetts was overwhelmingly Democratic, and the North Shore along the eastern coast was also strongly Democratic.</p>
 
-        <p>A lot of southern Massachusetts was red. Southwest, southeast, and almost all of the central reigon was red.</p>
+        <p>Much of southern Massachusetts was red. Southwest, southeast, and large parts of the central region went for Trump.</p>
 
     </main>
 
